@@ -1,0 +1,41 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Post 1",
+        "user": 1
+      },
+      {
+        "id": 2,
+        "title": "Post 2",
+        "user": 1
+      },
+      {
+        "id": 3,
+        "title": "Post 3",
+        "user": 2
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Andres Fernandez Bina"
+        },
+        {
+            "id": 2,
+            "fullName": "Juan Perez"
+        }
+    ]
+  }
